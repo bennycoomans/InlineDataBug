@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineDataBug", "InlineDataBug\InlineDataBug.csproj", "{435F1F26-38D2-4C2A-B2F8-B0959863C12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineDataBugTest", "InlineDataBugTest\InlineDataBugTest.csproj", "{CDE1FA93-088E-45C8-8CAB-1CD02D22014C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435F1F26-38D2-4C2A-B2F8-B0959863C12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435F1F26-38D2-4C2A-B2F8-B0959863C12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435F1F26-38D2-4C2A-B2F8-B0959863C12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435F1F26-38D2-4C2A-B2F8-B0959863C12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE1FA93-088E-45C8-8CAB-1CD02D22014C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE1FA93-088E-45C8-8CAB-1CD02D22014C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE1FA93-088E-45C8-8CAB-1CD02D22014C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE1FA93-088E-45C8-8CAB-1CD02D22014C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
